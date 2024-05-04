@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="swing">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/javafx-sdk-22.0.1/lib/javafx.swing.jar!/javafx/embed/swing" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
